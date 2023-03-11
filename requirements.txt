@@ -4,6 +4,7 @@ pydantic~=1.10.5
 numpy
 scipy
 scikit-learn
+sklearn
 matplotlib
 pandas
 fastapi
